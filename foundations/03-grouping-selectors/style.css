@@ -1,0 +1,13 @@
+.little {
+    background-color: black;
+    color: white;
+}
+
+.big {
+    background-color: yellow;
+}
+.little,
+.big {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
